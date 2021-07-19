@@ -1,15 +1,15 @@
-@import url('./blocks/header/header.css');
-@import url('./blocks/lead/lead.css');
-@import url('./blocks/intro/intro.css');
-@import url('./blocks/photo-grid/photo-grid.css');
-@import url('./blocks/video/video.css');
-@import url('./blocks/additional/additiional.css');
-@import url('./blocks/comments/comments.css');
-@import url('./blocks/emblem/emblem.css');
-@import url('./blocks/barentsburg/barentsburg.css');
-@import url('./blocks/footer/footer.css');
-@import url('./blocks/places/places.css');
-@import url('./blocks/cover/cover.css');
+@import url('./root/blocks/header/header.css');
+@import url('./root/blocks/lead/lead.css');
+@import url('./root/blocks/intro/intro.css');
+@import url('./root/blocks/photo-grid/photo-grid.css');
+@import url('./root/blocks/video/video.css');
+@import url('./root/blocks/additional/additiional.css');
+@import url('./root/blocks/comments/comments.css');
+@import url('./root/blocks/emblem/emblem.css');
+@import url('./root/blocks/barentsburg/barentsburg.css');
+@import url('./root/blocks/footer/footer.css');
+@import url('./root/blocks/places/places.css');
+@import url('./root/blocks/cover/cover.css');
 
 body {
 	background: #2A2C2F;
